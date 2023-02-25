@@ -35,6 +35,7 @@ Software Engineer - King Power Click (KPC) Freelance Software Developer - DevAsN
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/profile.php?id=100087205764882" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/NewTanachot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
