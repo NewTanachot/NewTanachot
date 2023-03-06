@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is New
 ===========================================================================================================================
 
-Tanachot Udomsartporn <br />
-🔥 Dev As New. Dev with Passion 🔥
+Tanachot Udomsartporn
 ---------------------
 
 Software Engineer - King Power Click (KPC) <br />
-Freelance Software Developer - DevAsNew
+Freelance Software Developer - DevAsNew <br />
+🔥 Dev As New. Dev with Passion 🔥
 
 * 🌍  I'm based in Thailand
 * 🖥️  See my portfolio at [My Resume](http://tanachot2000.github.io/My-Resume)
