@@ -5,8 +5,8 @@ Tanachot Udomsartporn
 ---------------------
 
 Software Engineer - King Power Click (KPC) <br />
-Freelance Software Developer - DevAsNew <br />
-🔥 Dev As New. Dev with Passion 🔥
+Freelance Software Developer - DevAsNew <br /><br />
+🔥 - Dev As New. Dev with Passion. - 🔥
 
 * 🌍  I'm based in Thailand
 * 🖥️  See my portfolio at [My Resume](http://tanachot2000.github.io/My-Resume)
