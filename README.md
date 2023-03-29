@@ -12,7 +12,7 @@ Freelance Software Developer - DevAsNew <br /><br />
 * 🖥️  See my portfolio at [My Resume](http://tanachot2000.github.io/My-Resume)
 * ✉️  You can contact me at [tanachotnew2543@gmail.com](mailto:tanachotnew2543@gmail.com)
 * 🚀  I'm currently working on [Freelance DevAsNew](http://https://www.facebook.com/profile.php?id=100087205764882)
-* 🧠  I'm learning Advance C# .NET Core, Next.js, React Native
+* 🧠  I'm learning Advance C# .NET Core topic, Flutter framework
 * 🤝  I'm open to collaborating on Inventory Management Service at DevAsNew
 * ⚡  รับพัฒนา Website / Window Application / Mobile Application ราคาสบายกระเป๋า😍
 
