@@ -14,7 +14,6 @@ Freelance Software Developer - DevAsNew <br /><br />
 * 🚀  I'm currently working on [Freelance DevAsNew](http://https://www.facebook.com/profile.php?id=100087205764882)
 * 🧠  I'm learning Advance C# .NET Core topic, Flutter framework
 * 🤝  I'm open to collaborating on Inventory Management Service at DevAsNew
-* ⚡  รับพัฒนา Website / Window Application / Mobile Application ราคาสบายกระเป๋า😍
 
 ### Skills
 
