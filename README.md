@@ -9,7 +9,7 @@ Freelance Software Developer - DevAsNew <br /><br />
 🔥 - Dev As New. Dev with Passion. - 🔥
 
 * 🌍  I'm based in Thailand
-* 🖥️  See my portfolio at [My Resume](http://tanachot2000.github.io/My-Resume)
+* 🖥️  See my portfolio at [My Resume](https://newtanachot.github.io/My-Resume/)
 * ✉️  You can contact me at [tanachotnew2543@gmail.com](mailto:tanachotnew2543@gmail.com)
 * 🚀  I'm currently working on [Freelance DevAsNew](http://https://www.facebook.com/profile.php?id=100087205764882)
 * 🧠  I'm learning Advance C# .NET Core topic, React Native, Electron.js
