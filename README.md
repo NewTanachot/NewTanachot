@@ -12,7 +12,7 @@ Freelance Software Developer - DevAsNew <br /><br />
 * 🖥️  See my portfolio at [My Resume](https://newtanachot.github.io/My-Resume/)
 * ✉️  You can contact me at [tanachotnew2543@gmail.com](mailto:tanachotnew2543@gmail.com)
 * 🚀  I'm currently working on [Freelance DevAsNew](http://https://www.facebook.com/profile.php?id=100087205764882)
-* 🧠  I'm learning Advance C# .NET Core topic, React Native, Electron.js
+* 🧠  I'm learning Advance C# .NET Core topic, Java, Golang
 * 👨‍💻  I'm developing Reminder-Me (location reminder) in Next.js 13 
 * 👨‍💻  I'm developing Oboe Jisho (Smart Japanese Dictionary/Game) 
 
