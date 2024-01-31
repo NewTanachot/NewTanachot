@@ -14,7 +14,7 @@ Freelance Software Developer - DevAsNew <br /><br />
 * 🚀  I'm currently working on [Freelance DevAsNew](http://https://www.facebook.com/profile.php?id=100087205764882)
 * 🧠  I'm learning Advance C# .NET Core topic, Java, Golang
 * 👨‍💻  I'm developing Reminder-Me (location reminder) in Next.js 13 
-* 👨‍💻  I'm developing Oboe Jisho (Smart Japanese Dictionary/Game) 
+* 👨‍💻  I'm developing JutTrips Azure Function API in C# .NET Core
 
 ### Skills
 
