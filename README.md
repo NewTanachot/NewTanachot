@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Tanachot Udomsartporn
 ---------------------
 
-Software Engineer - King Power Corporation (The Able Team) <br />
+Software Engineer - LINE MAN Wongnai <br />
 Freelance Software Developer - DevAsNew <br /><br />
 🔥 - The thing I love the most is seeing myself grow up in every day. - 🔥
 
@@ -12,7 +12,7 @@ Freelance Software Developer - DevAsNew <br /><br />
 * 🖥️  See my portfolio at [My Resume](https://newtanachot.github.io/My-Resume/)
 * ✉️  You can contact me at [tanachotnew2543@gmail.com](mailto:tanachotnew2543@gmail.com)
 * 🚀  I'm currently working on [Freelance DevAsNew](http://https://www.facebook.com/profile.php?id=100087205764882)
-* 🧠  I'm learning Advance C# .NET Core topic, Java, Golang
+* 🧠  I'm learning Advance Golang
 * 👨‍💻  I'm developing Reminder-Me (location reminder) in Next.js 13 
 * 👨‍💻  I'm developing JutTrips Azure Function API in C# .NET Core
 
