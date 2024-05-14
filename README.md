@@ -5,16 +5,17 @@ Tanachot Udomsartporn
 ---------------------
 
 Software Engineer - LINE MAN Wongnai <br />
-Freelance Software Developer - DevAsNew <br /><br />
+Freelance Software Developer - DevAsNew <br />
+
 🔥 - The thing I love the most is seeing myself grow up in every day. - 🔥
 
 * 🌍  I'm based in Thailand
-* 🖥️  See my portfolio at [My Resume](https://newtanachot.github.io/My-Resume/)
+* 📄 See my portfolio at [Resume Page](https://newtanachot.github.io/My-Resume/)
 * ✉️  You can contact me at [tanachotnew2543@gmail.com](mailto:tanachotnew2543@gmail.com)
+* 🎓  I'm Graduated in BEng, CE at Thai-Nichi Institute of Technology「[泰日工業大学](https://www.tni.ac.th/home/)」
 * 🚀  I'm currently working on [LINE MAN Wongnai](https://lmwn.com/) & [DevAsNew](https://www.facebook.com/profile.php?id=100087205764882)
 * 🧠  I'm learning Advance Golang topics
 * 👨‍💻  I'm developing Reminder-Me (location reminder) in Next.js 13 
-* 👨‍💻  I'm developing JutTrips Azure Function API in C# .NET Core
 
 ### Skills
 
