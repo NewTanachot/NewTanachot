@@ -1,11 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is New
+Hi There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Nw-
 ===========================================================================================================================
 
 <p align="center">
   <img src="./profile-banner.jpg"  width="100%" height="100%"/>
 </p>
 
-Tanachot Udomsartporn
+Tanachot (New) Udomsartporn
 ---------------------
 
 Software Engineer - LINE MAN Wongnai <br />
