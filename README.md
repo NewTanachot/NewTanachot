@@ -11,7 +11,7 @@ Freelance Software Developer - DevAsNew <br /><br />
 * 🌍  I'm based in Thailand
 * 🖥️  See my portfolio at [My Resume](https://newtanachot.github.io/My-Resume/)
 * ✉️  You can contact me at [tanachotnew2543@gmail.com](mailto:tanachotnew2543@gmail.com)
-* 🚀  I'm currently working on [Freelance DevAsNew](http://https://www.facebook.com/profile.php?id=100087205764882)
+* 🚀  I'm currently working on [LINEMAN Wongnai](https://lmwn.com/) & [DevAsNew](http://https://www.facebook.com/profile.php?id=100087205764882)
 * 🧠  I'm learning Advance Golang topics
 * 👨‍💻  I'm developing Reminder-Me (location reminder) in Next.js 13 
 * 👨‍💻  I'm developing JutTrips Azure Function API in C# .NET Core
