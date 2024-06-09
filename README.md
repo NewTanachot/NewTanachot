@@ -1,25 +1,26 @@
-Hi There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Nw-
-===========================================================================================================================
+# Hi There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Nw-
 
 <p align="center">
   <img src="./profile-banner.jpg"  width="100%" height="100%"/>
 </p>
 
-Tanachot (New) Udomsartporn
----------------------
+# Tanachot (New) Udomsartporn
 
-Software Engineer - LINE MAN Wongnai <br />
-Freelance Software Developer - DevAsNew <br />
+Software Engineer - [LINE MAN Wongnai](https://lmwn.com/) </br>
+Freelance Software Developer - [DevAsNew](https://www.facebook.com/profile.php?id=100087205764882) </br>
+Former Software Engineer - [King Power Click](https://kingpowerclick.com/) ([The Able by King Power](https://theable.kingpower.com/))
 
-🔥 - The thing I love the most is seeing myself grow up in every day. - 🔥
-
-* 🌍  I'm based in Thailand
+* 👨🏼‍💻 I'm Software Engineer - LINE MAN Wongnai
+* 👨🏼‍💻 I'm Freelance Software Developer - DevAsNew
+* 👨🏼‍💻 I'm Former Software Engineer - King Power Click (The Able by King Power)
 * 📄 See my portfolio at [Home Page](https://newtanachot.github.io/My-Resume/)
 * ✉️  You can contact me at [tanachotnew2543@gmail.com](mailto:tanachotnew2543@gmail.com)
 * 🎓  I'm Graduated in BEng, CE at Thai-Nichi Institute of Technology「[泰日工業大学](https://www.tni.ac.th/home/)」
-* 🚀  I'm currently working on [LINE MAN Wongnai](https://lmwn.com/) & [DevAsNew](https://www.facebook.com/profile.php?id=100087205764882)
 * 🧠  I'm learning Advance Golang topics
+
+<!--
 * 👨‍💻  I'm developing Reminder-Me (location reminder) in Next.js 13 
+-->
 
 ### Skills
 
@@ -50,7 +51,9 @@ Freelance Software Developer - DevAsNew <br />
 
 <p align="left"> <a href="https://www.facebook.com/profile.php?id=100087205764882" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/NewTanachot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/devasnew" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-
+---
+ ### 🔥 - The thing I love the most is seeing myself grow up in every day. - 🔥
+ 
 <!--
 ### Badges
 
