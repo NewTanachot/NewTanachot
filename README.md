@@ -12,7 +12,6 @@ Former Software Engineer - [King Power Click](https://kingpowerclick.com/) ([The
 
 * 👤 See my home page at [Home Page](https://newtanachot.github.io/My-Resume/)
 * ✉️  You can contact me at [ [Email](mailto:tanachotnew2543@gmail.com), [Linkedin](https://www.linkedin.com/in/devasnew) ]
-* 
 * 🎓  I'm Graduated in BEng, CE at Thai-Nichi Institute of Technology「[泰日工業大学](https://www.tni.ac.th/home/)」
 * 👾  I'm learning Advance Golang topics
 
