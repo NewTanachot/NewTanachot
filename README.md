@@ -21,7 +21,7 @@ Former Software Engineer - [King Power Click](https://kingpowerclick.com/) ([The
 
 ### Skills
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,go,javascript,typescript,nodejs,react,nextjs,vue,python,php,laravel,bootstrap,prisma,postgresql,mongodb,planetscale,vercel,redis,docker&perline=11" />
   </a>
