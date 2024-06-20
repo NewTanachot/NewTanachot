@@ -21,17 +21,23 @@ Former Software Engineer - [King Power Click](https://kingpowerclick.com/) ([The
 
 ### Skills
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,go,javascript,typescript,nodejs,react,nextjs,vue,python,php,laravel,bootstrap,prisma,postgresql,mongodb,planetscale,vercel,redis,docker&perline=11" />
+<p align="center">
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,go,javascript,typescript,nodejs,react,nextjs,vue,python,php,laravel,bootstrap,postgresql,mongodb,redis,prisma,linux,docker,kubernetes,vercel,planetscale&perline=12" />
   </a>
 </p>
 
 ### Socials
 
-<p align="left"> 
-  <a href="https://www.facebook.com/profile.php?id=100087205764882" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
-  <a href="https://www.linkedin.com/in/devasnew" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<p align="center">
+<!--   <a href="https://www.facebook.com/profile.php?id=100087205764882" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" />
+  </a> -->
+  <!--  <a href="https://www.facebook.com/profile.php?id=100087205764882" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
+  </a>  -->
+  <a href="https://www.linkedin.com/in/devasnew" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
 ---
