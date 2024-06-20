@@ -11,7 +11,8 @@ Freelance Software Developer - [DevAsNew](https://www.facebook.com/profile.php?i
 Former Software Engineer - [King Power Click](https://kingpowerclick.com/) ([The Able by King Power](https://theable.kingpower.com/))
 
 * 👤 See my home page at [Home Page](https://newtanachot.github.io/My-Resume/)
-* ✉️  You can contact me at [tanachotnew2543@gmail.com](mailto:tanachotnew2543@gmail.com)
+* ✉️  You can contact me at [ [Email](mailto:tanachotnew2543@gmail.com), [Linkedin](https://www.linkedin.com/in/devasnew) ]
+* 
 * 🎓  I'm Graduated in BEng, CE at Thai-Nichi Institute of Technology「[泰日工業大学](https://www.tni.ac.th/home/)」
 * 👾  I'm learning Advance Golang topics
 
@@ -27,22 +28,21 @@ Former Software Engineer - [King Power Click](https://kingpowerclick.com/) ([The
   </a>
 </p>
 
+<!--
 ### Socials
 
 <p align="center">
-<!--   <a href="https://www.facebook.com/profile.php?id=100087205764882" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" />
-  </a> -->
-  <!--  <a href="https://www.facebook.com/profile.php?id=100087205764882" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
-  </a>  -->
+  <a href="https://www.facebook.com/profile.php?id=100087205764882" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
+  </a>
   <a href="https://www.linkedin.com/in/devasnew" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
+-->
 
 ---
  ### 🔥 - The thing I love the most is seeing myself grow up in every day. - 🔥
- 
+
 <!--
 ### Badges
 
