@@ -40,7 +40,7 @@ Former Software Engineer - [King Power Click](https://kingpowerclick.com/) ([The
 -->
 
 ---
- ### 🔥 - The thing I love the most is seeing myself grow up in every day. - 🔥
+ ### 🔥 - The thing I love the most is seeing myself grow up every day. - 🔥
 
 <!--
 ### Badges
