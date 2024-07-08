@@ -10,14 +10,19 @@ Software Engineer - [LINE MAN Wongnai](https://lmwn.com/) </br>
 Freelance Software Developer - [DevAsNew](https://www.facebook.com/profile.php?id=100087205764882) </br>
 Former Software Engineer - [King Power Click](https://kingpowerclick.com/) ([The Able by King Power](https://theable.kingpower.com/))
 
-* 👤 See my home page at [Home Page](https://newtanachot.github.io/My-Resume/)
-* ✉️  You can contact me at [ [Email](mailto:tanachotnew2543@gmail.com), [Linkedin](https://www.linkedin.com/in/devasnew) ]
+* 👤 See my [Resume](https://newtanachot.github.io/My-Resume/)
 * 🎓  I'm Graduated in BEng, CE at Thai-Nichi Institute of Technology「[泰日工業大学](https://www.tni.ac.th/home/)」
 * 👾  I'm learning Advance Golang topics
 
 <!--
 * 👨‍💻  I'm developing Reminder-Me (location reminder) in Next.js 13 
 -->
+
+<a target="_blank" href="mailto:tanachotnew2543@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://www.facebook.com/profile.php?id=100087205764882"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></img></a>
+<a target="_blank" href="https://www.instagram.com/new2k_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/devasnew"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://newtanachot.github.io/My-Resume/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></img></a>
 
 ### Skills
 
