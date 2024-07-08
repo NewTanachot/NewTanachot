@@ -27,6 +27,12 @@ Former Software Engineer - [King Power Click](https://kingpowerclick.com/) ([The
   </a>
 </p>
 
+<div align="center">
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NewTanachot&layout=compact&langs_count=8" />
+  </a>
+</div>
+
 <!--
 ### Socials
 
