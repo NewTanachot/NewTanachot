@@ -26,17 +26,19 @@ Former Software Engineer - [King Power Click](https://kingpowerclick.com/) ([The
 
 ### Skills
 
-<p align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,go,javascript,typescript,nodejs,react,nextjs,vue,python,php,laravel,bootstrap,postgresql,mongodb,redis,prisma,linux,docker,kubernetes,vercel,planetscale&perline=12" />
-  </a>
-</p>
-
 <div align="center">
   <a href="https://github.com/anuraghazra/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NewTanachot&layout=compact&langs_count=8" />
   </a>
 </div>
+
+<p></p>
+
+<p align="center">
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,go,javascript,typescript,nodejs,react,nextjs,vue,python,php,laravel,bootstrap,postgresql,mongodb,redis,prisma,linux,docker,kubernetes,vercel,planetscale&perline=12" />
+  </a>
+</p>
 
 <!--
 ### Socials
