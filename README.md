@@ -1,4 +1,4 @@
-# Hi There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Nw-
+# Hi There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 <p align="center">
   <img src="./profile-banner.jpg"  width="100%" height="100%"/>
@@ -7,7 +7,7 @@
 # Tanachot (New) Udomsartporn
 
 Software Engineer - [LINE MAN Wongnai](https://lmwn.com/) </br>
-Freelance Software Developer - [DevAsNew](https://www.facebook.com/profile.php?id=100087205764882) </br>
+Freelance Software Developer - [DevAsNew](https://www.facebook.com/profile.php?id=100007249068676) </br>
 Former Software Engineer - [King Power Click](https://kingpowerclick.com/) ([The Able by King Power](https://theable.kingpower.com/))
 
 * 👤 See my [Resume](https://newtanachot.github.io/My-Resume/)
