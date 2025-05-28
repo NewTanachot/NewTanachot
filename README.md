@@ -12,6 +12,7 @@ Former Software Engineer - [King Power Click](https://kingpowerclick.com/) ([The
 
 * 👤 See my [Resume](https://newtanachot.github.io/My-Resume/)
 * 🎓  I'm Graduated in BEng, CE at Thai-Nichi Institute of Technology「[泰日工業大学](https://www.tni.ac.th/home/)」
+  
 <!--
 * 👾  I'm learning Advance Golang topics
 * 👨‍💻  I'm developing Reminder-Me (location reminder) in Next.js 13 
